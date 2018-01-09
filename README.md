@@ -6,7 +6,7 @@ This repository is used to share the referenced paper, code and other documents 
 
 Including all the network code of contiki operating system.
 
-# Referenced Paper
+# Referenced paper
 
 Including the related work of SDN, WSN, UAV, NFV, etc.
 
