@@ -1,7 +1,5 @@
 #code about sensor network
-
 ##operating system
-
 There a lot of OS for sensor networks. 
 >1. [contiki os](https://github.com/contiki-os/contiki).
 Contiki is one mature OS for sensor networks, which designs multi-thread system base on [protothread](https://github.com/contiki-os/contiki/wiki/Processes#Protothreads). Contiki contains a lot of network stack, such as COAP, UDP, ZIGBEE, RPL. And it also supports COOJA simulation. Contiki not support Bluetooth.
