@@ -1,3 +1,3 @@
 How to manage reference papers and share them?
 ============================================
-There is a very good reference paper management tool called [mendeley](https://www.mendeley.com/). Mendeley will synchronize all your reference papers, and you can classify your reference papers to several catalogs, and it can easy share paper with group which you created.
+There is a very good reference paper management tool called [Mendeley](https://www.mendeley.com/). Mendeley will synchronize all your reference papers, and you can classify your reference papers to several catalogs, and it can easy share paper with group which you created. Mendeley has clients on almost all platform, including Linux, Windows, Mac, IOS, Android.
